@@ -1,0 +1,11 @@
+.btn {
+  padding: 6px 16px;
+
+  &:not(last-child) {
+    margin-right: 10px;
+  }
+}
+
+.list__button {
+  display: flex;
+}
